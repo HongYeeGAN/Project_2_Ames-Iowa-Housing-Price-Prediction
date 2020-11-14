@@ -1,0 +1,7 @@
+poblem statement...talk about severity. What each other want to accomplish. What i want to acheive through this model. Translate findings into actionable insights.
+
+must have a story. Where steps make sense. Must have flow.
+Final NaN check.
+biling plot
+
+regression=False 
